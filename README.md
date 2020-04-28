@@ -4,9 +4,9 @@
 
 ### Data Sets 
 
-#### (1)  https://www.kaggle.com/gagandeep16/car-sales
+#### (1)  Car Sales CSV - https://www.kaggle.com/gagandeep16/car-sales
 
-#### (2)  https://data.world/amercader/car-fuel-emissions-2000-2013
+#### (2)  Data CSV - https://data.world/amercader/car-fuel-emissions-2000-2013
 
 ## Background 
 
